@@ -1,4 +1,24 @@
-<<<<<<< HEAD
+## A little about me.
+I have been working as a developer since 2009. It’s a long time..
+
+I have ever program in Python, PHP (Zend Framework, Codeigniter, Cake Php), .Net, .Net Core and a little bit Java. 
+I have never program in React.js before this challenge. I liked a lot to learn about it. I hope to be a part of the Rock Content team, but I want to thank you for the opportunity to learn it - I expend the last 4 days in it.
+Although my 11 years programming, I have never started a project in .Net from its beginning. Then I have some considerations:
+
+## Security:
+For the security, I would configure STS in the .Net API.
+
+## Scalability:
+For the scalability, I would consider to use Lambda AWS for the PUT method of .Net API.
+
+## But at first:
+But, at first off all, I would consult another developers in Rock Content to know the best practices adopted by the Company. I really believe in the exchange of knowledge. 
+
+## Finaly
+I hope to have the opportunity to grow up whit Rock Content team. 
+
+## Thanks for today.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,4 +90,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # rockelikereact
 Rock Content Challenge - React.js
->>>>>>> 23a5c7c0ba74cf555e5810bead04d517f08d7ed4
