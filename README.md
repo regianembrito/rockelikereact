@@ -1,8 +1,8 @@
 ## A little about me.
 I have been working as a developer since 2009. It’s a long time..<br /><br />
 
-I have ever program in Python, PHP (Zend Framework, Codeigniter, Cake Php), .Net, .Net Core and a little bit Java. <br />
-I have never program in React.js before this challenge. I liked a lot to learn about it. I hope to be a part of the Rock Content team, but I want to thank you for the opportunity to learn it - I expend the last 4 days in it.<br />
+I have ever programmed in Python, PHP (Zend Framework, Codeigniter, Cake Php), .Net, .Net Core and a little bit Java. <br />
+I have never programmed in React.js before this challenge. I liked a lot to learn about it. I hope to be a part of the Rock Content team, but I want to thank you for the opportunity to learn it - I expend the last 4 days in it.<br />
 Although my 11 years programming, I have never started a project in .Net from its beginning. Then I have some considerations:
 
 ## Security:
